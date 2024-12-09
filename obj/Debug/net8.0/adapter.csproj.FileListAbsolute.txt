@@ -1,0 +1,14 @@
+C:\Users\creat\OneDrive\Desktop\.NET\adapter\bin\Debug\net8.0\adapter.exe
+C:\Users\creat\OneDrive\Desktop\.NET\adapter\bin\Debug\net8.0\adapter.deps.json
+C:\Users\creat\OneDrive\Desktop\.NET\adapter\bin\Debug\net8.0\adapter.runtimeconfig.json
+C:\Users\creat\OneDrive\Desktop\.NET\adapter\bin\Debug\net8.0\adapter.dll
+C:\Users\creat\OneDrive\Desktop\.NET\adapter\bin\Debug\net8.0\adapter.pdb
+C:\Users\creat\OneDrive\Desktop\.NET\adapter\obj\Debug\net8.0\adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\creat\OneDrive\Desktop\.NET\adapter\obj\Debug\net8.0\adapter.AssemblyInfoInputs.cache
+C:\Users\creat\OneDrive\Desktop\.NET\adapter\obj\Debug\net8.0\adapter.AssemblyInfo.cs
+C:\Users\creat\OneDrive\Desktop\.NET\adapter\obj\Debug\net8.0\adapter.csproj.CoreCompileInputs.cache
+C:\Users\creat\OneDrive\Desktop\.NET\adapter\obj\Debug\net8.0\adapter.dll
+C:\Users\creat\OneDrive\Desktop\.NET\adapter\obj\Debug\net8.0\refint\adapter.dll
+C:\Users\creat\OneDrive\Desktop\.NET\adapter\obj\Debug\net8.0\adapter.pdb
+C:\Users\creat\OneDrive\Desktop\.NET\adapter\obj\Debug\net8.0\adapter.genruntimeconfig.cache
+C:\Users\creat\OneDrive\Desktop\.NET\adapter\obj\Debug\net8.0\ref\adapter.dll
